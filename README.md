@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&desc=Hyewon's%20Github%20Profile)
 <div align="center">
-	Tech Stack
+	:computer:Tech Stack:computer:
 </div>
 <br>
 <div align="center">
@@ -34,4 +34,13 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 </div>
-
+<br>
+<!--
+<div align="center">
+	:balloon:About Me:balloon:
+</div>
+<br>
+<div align="center">
+	
+</div>
+-->
