@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-	:computer:Blog & Portfolio:computer:
+	:speech_balloon:Blog & Portfolio:speech_balloon:
 </div>
 <br>
 <div align="center">	 
