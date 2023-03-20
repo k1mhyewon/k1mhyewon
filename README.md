@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&desc=Hyewon's%20Github%20Profile)
+
+<!--
+<div align="center">
+	:computer:Blog & Portfolio:computer:
+</div>
+<br>
+<div align="center">
+	<a href="https://brissy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tstory-yellow"/></a> 
+	
+	<a href="https://medium.com/@kimhy0434" target="_blank"><img src="https://img.shields.io/badge/-medium-lightgrey"/></a> 
+</div>
+-->
+<br>
+<br>
 <div align="center">
 	:computer:Tech Stack:computer:
 </div>
