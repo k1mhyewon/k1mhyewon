@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="center">	  
 	<a href="https://medium.com/@kimhy0434" target="_blank"><img src="https://img.shields.io/badge/Medium-lightgray?style=flat&logo=medium&logoColor=white" /></a>
 	<a href="https://brissy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-ffb13b?style=flat&logo=tistory&logoColor=white"/></a>
-	<a href="https://pushy-paste-a53.notion.site/Kim-Hyewon-6eed17557ee749c9b7a8853d65013a40" target="_blank"><img src="https://img.shields.io/badge/Notion-0769AD?style=flat&logo=notion&logoColor=white"/></a>
+<!-- 	<a href="https://pushy-paste-a53.notion.site/Kim-Hyewon-6eed17557ee749c9b7a8853d65013a40" target="_blank"><img src="https://img.shields.io/badge/Notion-0769AD?style=flat&logo=notion&logoColor=white"/></a> -->
 	
 </div>
 
