@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 	<br>	
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"> 
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
 	<br>
 	<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
