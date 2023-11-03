@@ -25,16 +25,16 @@
 	<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
 	<br>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white">
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
+ 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+	<br>
 	<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/SpringBoot-ffc845?style=flat&logo=Spring Boot&logoColor=white">
-	<br>
 	<img src="https://img.shields.io/badge/Mybatis-F7DF1E?style=flat&logo=mega&logoColor=white">
 	<img src="https://img.shields.io/badge/Tomcat-d20962?style=flat&logo=Apache Tomcat&logoColor=white">
-	<br>	
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"> 
+	<br>	 
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
 	<br>
