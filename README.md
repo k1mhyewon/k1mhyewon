@@ -1,20 +1,5 @@
 
-<!--
-**k1mhyewon/k1mhyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&desc=Hyewon's%20Github%20Profile)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=ffffff&height=300&section=header&text=Welcome&fontSize=90&desc=Hyewon's%20Github%20Profile)
 
 
 <div align="center">
@@ -43,10 +28,10 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat&logo=Spring&logoColor=white">
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+	<img src="https://img.shields.io/badge/SpringBoot-ffc845?style=flat&logo=Spring Boot&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Mybatis-F7DF1E?style=flat&logo=mega&logoColor=white">
-	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
+	<img src="https://img.shields.io/badge/Tomcat-d20962?style=flat&logo=Apache Tomcat&logoColor=white">
 	<br>	
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"> 
@@ -56,5 +41,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 	<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=Linux&logoColor=white">
+	<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=Docker&logoColor=white">
+	<img src="https://img.shields.io/badge/Nginx-34be5b?style=flat&logo=Nginx&logoColor=white">
+	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
+ 	
 </div>
 <br>
